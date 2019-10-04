@@ -1,0 +1,92 @@
+» ./utox -vvv                                                                                                ψ☭134☭ψ
+XLIB MAIN:    Setting theme to:	0
+XLib Tray:    Create Tray Icon
+XLib Tray:    Resolution 128 128
+XLib Tray:    Draw Tray
+XLib Tray:    Incoming tray window event (28)
+XLib tray:    Reached end of function, this is bad juju!
+Toxcore:      Using unencrypted save file
+Toxcore:      Creating New Toxcore instance.
+		IPv6 : 1
+		UDP  : 1
+		Proxy: 0  0
+XLib Tray:    NoExpose
+Friend:       Initializing friend list.
+Friend:       Initializing friend: 0
+Chatlog:      No log exists.
+Friend:       Initializing friend: 1
+Chatlog:      No log exists.
+Friend:       Initializing friend: 2
+Chatlog:      Log read:	Error reading record 1 of length 3 at offset 0: stopping.
+Friend:       Friendlist successfully initialized with 3 friends.
+uTox Audio:   Audio Filtering enabled in this build
+Filter Audio: filter audio on
+uTox:         Connected to DHT!
+FileTransfer: Loading outgoing 0, deleting origin file.
+FileTransfer: Loading outgoing 1, deleting origin file.
+FileTransfer: Loading outgoing 2, deleting origin file.
+FileTransfer: Loading outgoing 3, deleting origin file.
+FileTransfer: Loading outgoing 4, deleting origin file.
+FileTransfer: Loading outgoing 5, deleting origin file.
+FileTransfer: Loading outgoing 6, deleting origin file.
+FileTransfer: Loading outgoing 7, deleting origin file.
+FileTransfer: Loading outgoing 8, deleting origin file.
+FileTransfer: Loading outgoing 9, deleting origin file.
+FileTransfer: Loading outgoing 10, deleting origin file.
+FileTransfer: Loading outgoing 11, deleting origin file.
+FileTransfer: Loading outgoing 12, deleting origin file.
+FileTransfer: Loading outgoing 13, deleting origin file.
+FileTransfer: Loading outgoing 14, deleting origin file.
+FileTransfer: Loading outgoing 15, deleting origin file.
+FileTransfer: Loading outgoing 16, deleting origin file.
+FileTransfer: Loading outgoing 17, deleting origin file.
+FileTransfer: Loading outgoing 18, deleting origin file.
+FileTransfer: Loading outgoing 19, deleting origin file.
+FileTransfer: Loading outgoing 20, deleting origin file.
+FileTransfer: Loading outgoing 21, deleting origin file.
+FileTransfer: Loading outgoing 22, deleting origin file.
+FileTransfer: Loading outgoing 23, deleting origin file.
+FileTransfer: Loading outgoing 24, deleting origin file.
+FileTransfer: Loading outgoing 25, deleting origin file.
+FileTransfer: Loading outgoing 26, deleting origin file.
+FileTransfer: Loading outgoing 27, deleting origin file.
+FileTransfer: Loading outgoing 28, deleting origin file.
+FileTransfer: Loading outgoing 29, deleting origin file.
+FileTransfer: Loading outgoing 30, deleting origin file.
+FileTransfer: Loading outgoing 31, deleting origin file.
+Avatar:       Unable to get out avatar data to send to friend.
+Tox Callbacks: Friend	2	--	Online (UDP)
+Tox Callbacks: Friend	2	--	Name:	workie Prickles
+Tox Callbacks: Friend	2	--	Status Message:	i am a robot pretending to be a cactus
+Tox Callbacks: Friend	2	--	State:	0
+Toxcore:      Sending message, receipt 1
+Tox Callbacks: Friend	2	--	Standard Message: hello mr prickles
+Tox Callbacks: Friend	2	--	Receipt:	1
+Toxcore:      Sending message, receipt 2
+Tox Callbacks: Friend	2	--	Standard Message: utox bug demo
+Messages:     Messages:	Unable to update this message...
+		msg->disk_offset 0 && m->number 4 receipt_number 2
+
+Tox Callbacks: Friend	2	--	Receipt:	2
+Toxcore:      Sending message, receipt 3
+Tox Callbacks: Friend	2	--	Standard Message: isn't this interesting behaviour?
+Messages:     Messages:	Unable to update this message...
+		msg->disk_offset 0 && m->number 6 receipt_number 3
+
+Tox Callbacks: Friend	2	--	Receipt:	3
+Toxcore:      Sending message, receipt 4
+Tox Callbacks: Friend	2	--	Standard Message: how strange
+Messages:     Messages:	Unable to update this message...
+		msg->disk_offset 0 && m->number 8 receipt_number 4
+
+Tox Callbacks: Friend	2	--	Receipt:	4
+Toxcore:      Sending message, receipt 5
+Tox Callbacks: Friend	2	--	Standard Message: will exit now
+Messages:     Messages:	Unable to update this message...
+		msg->disk_offset 0 && m->number 10 receipt_number 5
+
+Tox Callbacks: Friend	2	--	Receipt:	5
+uTox:         Saving uTox settings.
+uTox:         Clean exit.
+zsh: abort      ./utox -vvv
+(exit status 134)
